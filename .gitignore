@@ -7,7 +7,7 @@
 *.userosscache
 *.sln.docstates
 
-echo "folder1/"
+echo "testeazurehtml/"
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
