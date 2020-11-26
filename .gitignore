@@ -7,7 +7,7 @@
 *.userosscache
 *.sln.docstates
 
-.testeazurehtml/
+testeazurehtml/
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
